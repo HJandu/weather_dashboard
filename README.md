@@ -1,7 +1,7 @@
 ![image](https://github.com/HJandu/weather_dashboard/assets/116304118/a4c30b59-faa8-4c45-826f-bb6523fd6e08)
 
 ## Deployment
-To access the weather dashboard, please click [here] .
+To access the weather dashboard, please click [here](https://hjandu.github.io/weather_dashboard/).
 
 ## Description 
 
